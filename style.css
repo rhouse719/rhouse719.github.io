@@ -1,0 +1,23 @@
+html
+{
+	color: #ffffff;
+	background-color: #000000;
+	font-family: serif;
+}
+
+body
+{
+	margin: auto;
+	width: 60%;
+}
+
+p
+{
+	text-align: justify;
+}
+
+blockquote
+{
+	border-left-style: solid;
+	padding-left: 10px;
+}
