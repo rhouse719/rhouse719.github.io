@@ -21,3 +21,9 @@ blockquote
 	border-left-style: solid;
 	padding-left: 10px;
 }
+
+a:link, a:visited, a:hover, a:active
+{
+	/*color: #d28dff;*/
+	color: #1cb0f6;
+}
